@@ -1,4 +1,4 @@
-# CaptainPennies
+# StudentManager
 
 o Why are we doing this? <br>
 For some old town road school who didn't realize internet existed yet. <br>
