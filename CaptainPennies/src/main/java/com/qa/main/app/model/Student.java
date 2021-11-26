@@ -6,6 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//This is where the magic happens, basic java and thank you source context menu.
 @Entity
 @Table(name = "student_table", catalog = "student_database")
 public class Student {

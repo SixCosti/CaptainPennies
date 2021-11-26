@@ -8,6 +8,7 @@ public class CaptainPenniesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CaptainPenniesApplication.class, args);
+		//Some librarians would say I'm aggressive.
 	}
 
 }

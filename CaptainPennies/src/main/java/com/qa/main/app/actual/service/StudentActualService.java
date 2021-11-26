@@ -1,5 +1,7 @@
 package com.qa.main.app.actual.service;
 
+//Don't even trip dawg.
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,7 +38,7 @@ public class StudentActualService implements StudentService {
 
 	@Override
 	public void deleteStudent(int id) {
-		// Here they get their head chopped off.
+		// Here they get their head chopped off, yaay.
 		studentRepo.deleteById(id);
 	}
 	
