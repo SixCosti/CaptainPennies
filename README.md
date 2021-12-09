@@ -17,6 +17,6 @@ o Screenshots showing your postman requests and the output from the API. <br>
 o Screenshots of your database to prove that data is being persisted. <br>
 -easy as a pie <br>
 o Screenshot of your test results, including coverage report. <br>
--missed the lesson hopefully by the time i'm being examinated some indian youtube guy or stackoverflow will save my life idk. <br>
+-missed the lesson hopefully by the time i'm being examinated stackoverflow will save my life idk. <br>
 o Link to Jira Board <br>
 -that won't be too creative as i don't have the time, deadline calls. <br>
